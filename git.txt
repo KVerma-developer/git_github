@@ -1,6 +1,0 @@
-about gid
-git init
-git status
-git add
-git commit -m "added"
-now again git (check status)
